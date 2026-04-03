@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-id="BTB.pl@SD",BTB HD (1080p)
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.tm5ELzwtPY6t.m3u8
+#EXTINF:-1 tvg-id="BTB.pl@SD",BTB HD (1080p)
+https://emisja.btb.j00r.us/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="BTBInternational.pl@SD",BTB International (1080p)
+https://emisja.btb.j00r.us/iptv/channel/2.m3u8
+#EXTINF:-1 tvg-id="BTBInfo.pl@SD",BTB Info (1080p)
+https://emisja2.btb.j00r.us/iptv/channel/4.m3u8
+#EXTINF:-1 tvg-id="BTBMusic.pl@SD",BTB Music (1080p)
+https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8
+#EXTINF:-1 tvg-id="Bomsat.pl@SD",Bomsat (1080p)
+https://emisja3.btb.j00r.us/iptv/channel/3.m3u8
+#EXTINF:-1 tvg-id="Bomsat.pl@SD",Bomsat (1080p)
+https://www.youtube.com/watch?v=Z-iBUbO_Fz8
