@@ -5,10 +5,14 @@ http://78.130.250.2:8023/play/a03f/index.m3u8
 http://78.130.250.2:8023/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="RedlightHD.nl@HD",Redlight HD (1080p)
 https://pl.online24.pm/play/594/623939143BE8A4B/video.m3u8
+#EXTINF:-1 tvg-id="RedlightHD.nl@HD",Redlight HD (1080p)
+http://ua002.online24.pm:8222/594/video.m3u8?token=623939143BE8A4B
 #EXTINF:-1 tvg-id="PrivateTV.nl@HD",Private TV (1080p)
 http://78.130.250.2:8023/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="VividRed.nl@SD",Vivid Red (1080p)
 https://pl.online24.pm/play/1766/623939143BE8A4B/video.m3u8
+#EXTINF:-1 tvg-id="VividRed.nl@SD",Vivid Red (1080p)
+http://ua002.online24.pm:8222/1766/video.m3u8?token=623939143BE8A4B
 #EXTINF:-1 tvg-id="DorcelTV.nl@HD",Dorcel TV (1080p)
 http://78.130.250.2:8023/play/a069/index.m3u8
 #EXTINF:-1 tvg-id="DorcelTV.nl@HD",Dorcel TV (1080p)
@@ -23,13 +27,19 @@ http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 http://78.130.250.2:8023/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="BlueHustler.nl@SD",Blue Hustler (576p)
 http://pl.online24.pm/play/107/623939143BE8A4B/video.m3u8
+#EXTINF:-1 tvg-id="BlueHustler.nl@SD",Blue Hustler (576p)
+http://ua002.online24.pm:8222/107/video.m3u8?token=623939143BE8A4B
 #EXTINF:-1 tvg-id="HustlerTV.nl@SD",Hustler TV (576p)
 http://pl.online24.pm/play/592/623939143BE8A4B/video.m3u8
 #EXTINF:-1 tvg-id="HustlerTV.nl@SD",Hustler TV (576p)
 https://ru.iptv.monster/play/592/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 tvg-id="HustlerTV.nl@SD",Hustler TV (576p)
+http://ua002.online24.pm:8222/592/video.m3u8?token=623939143BE8A4B
 #EXTINF:-1 tvg-id="EroxHD.nl@HD",Erox HD (1080p)
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="EroxHD.nl@HD",Erox HD (1080p)
 https://pl.online24.pm/play/596/623939143BE8A4B/video.m3u8
+#EXTINF:-1 tvg-id="EroxHD.nl@HD",Erox HD (1080p)
+http://ua002.online24.pm:8222/596/video.m3u8?token=623939143BE8A4B
 #EXTINF:-1 tvg-id="EroxxxHD.nl@HD",Eroxxx HD (1080p)
 http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
